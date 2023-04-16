@@ -17,7 +17,7 @@
 ### <b>Personal stuff.</b>
 
 - Book lover. My favorite author is Brandon Sanderson.
-- I love taking photos, doing origami and listen to music 24/7.
+- I love taking photos, doing origami and listening to music 24/7.
 - Hoping to make my own videogame someday.
 
 ---
