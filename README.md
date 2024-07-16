@@ -26,6 +26,10 @@
 - I like playing videogames, specially indies and puzzle-themed ones.
 - Hoping to make my own videogame someday.
 
+[CV (English version)](https://github.com/Deipzza/Deipzza/blob/main/CV_1_David_Perez_EN.pdf).
+
+[CV (Spanish version)](https://github.com/Deipzza/Deipzza/blob/main/CV_1_David_Perez_ES.pdf).
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
